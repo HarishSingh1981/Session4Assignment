@@ -3,6 +3,13 @@ It contains the solution of assignments in SchoolOfAI AI course
 
 PART1:
 
+<img
+  src="images/excel_backpropogation_lr_1.jpg"
+  alt="Alt text"
+  title="loss with lr = 1"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 1. Attached excel sheet depicts the back-propogation with simple neural network with 1 input/1 hidden and 1 output layer.
 C1 and C2 --> input neurons
 h1 and h1 --> hidden layer neurons
