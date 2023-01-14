@@ -91,6 +91,3 @@ Error Curve for different learning rate:
 
 ![image](https://user-images.githubusercontent.com/13793213/212477367-e4865b5e-c47e-427b-bbf4-cdfe66e84557.png "LearningRate = 2.0")
 
-
-## Part2
-
