@@ -3,14 +3,7 @@ It contains the solution of assignments in SchoolOfAI AI course
 
 PART1:
 
-<img src="images/excel_backpropogation_lr_1.png" width=100>
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/13793213/212476994-b8112176-ba47-4d4d-8141-58f902c9d97f.png)
 
 
 1. Attached excel sheet depicts the back-propogation with simple neural network with 1 input/1 hidden and 1 output layer.
@@ -76,3 +69,17 @@ Wx = Wx - alpha * dE/dWx
 
 4. Network again run the forward pass with updated weights
 5. This way networks keep learning
+
+Error Curve for different learning rate:
+
+lr=0.2
+![image](https://user-images.githubusercontent.com/13793213/212477126-ba141f85-48d0-4797-925f-8c4c97d476c7.png)
+
+lr=0.5
+![image](https://user-images.githubusercontent.com/13793213/212477222-d1f5d5a4-b102-4d62-95f9-5749a403d472.png)
+
+lr=0.8
+![image](https://user-images.githubusercontent.com/13793213/212477316-24e1e708-b3f1-4e8c-97fc-d2091ff7181a.png)
+
+lr=2.0
+![image](https://user-images.githubusercontent.com/13793213/212477367-e4865b5e-c47e-427b-bbf4-cdfe66e84557.png)
