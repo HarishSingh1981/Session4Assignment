@@ -4,8 +4,8 @@ It contains the solution of assignments in SchoolOfAI AI course
 PART1:
 
 <img
-  src="/images/excel_backpropogation_lr_1.jpg"
-  alt="Alt text"
+  src="/images/excel_backpropogation_lr_1.jpg?raw=true"
+  alt="image"
   title="loss with lr = 1"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
